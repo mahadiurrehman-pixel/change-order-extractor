@@ -1,0 +1,8 @@
+groq==1.7.0
+pydantic==2.14.1
+python-dotenv==1.2.4
+PyMuPDF==1.28.2
+
+# Development and testing
+pytest==9.1.1
+ruff==0.17.1
